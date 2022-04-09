@@ -1,0 +1,21 @@
+﻿<fieldset class="border p-2">
+    <legend class="float-none w-auto">Address Details</legend>
+    @if (details != null)
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col m-md-2">City</div>
+                <div class="col m-md-2"><input class="form-control" @bind=details.city /> </div>
+            </div>
+            <div class="row">
+                <div class="col m-md-2">State</div>
+                <div class="col m-md-2"><input class="form-control" @bind=details.region /></div>
+            </div>
+            <div class="row">
+                <div class="col m-md-2">Zip</div>
+                <div class="col m-md-2"><input class="form-control" @bind=details.postal /></div>
+            </div>
+        </div>
+    }
+
+</fieldset>
