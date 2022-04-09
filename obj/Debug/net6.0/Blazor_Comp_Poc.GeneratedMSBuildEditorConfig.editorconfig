@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blazor_Comp_Poc
+build_property.RootNamespace = Blazor_Comp_Poc
+build_property.ProjectDir = C:\Users\Anvi Sah\source\repos\Blazor_Com_Poc_Test\Blazor_Comp_Poc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Anvi Sah\source\repos\Blazor_Com_Poc_Test\Blazor_Comp_Poc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/Rgister.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Shared/AddressComponentForUSA.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NDb21wb25lbnRGb3JVU0EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wipslhtoif
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n2urucc09j
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anvi Sah/source/repos/Blazor_Com_Poc_Test/Blazor_Comp_Poc/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
