@@ -1,4 +1,6 @@
-﻿namespace Blazor_Comp_Poc.Data.Service
+﻿using Microsoft.Extensions.Configuration;
+
+namespace Blazor_Comp_Poc.Data.Service
 {
     public interface ICurrentLocation
     {
@@ -8,7 +10,6 @@
     public class CurrentLocationService : ICurrentLocation
     {
         private readonly HttpClient httpClient;
-
         public CurrentLocationService(HttpClient httpClient)
         {
             this.httpClient = httpClient;
@@ -16,7 +17,7 @@
 
         public async Task<LocaltionDetails> GetLocaltionDetails()
         {
-            var result = await httpClient.GetFromJsonAsync<LocaltionDetails>("https://ipinfo.io/json");
+            var result = await httpClient.GetFromJsonAsync<LocaltionDetails>("json");
             return result;
         }
     }

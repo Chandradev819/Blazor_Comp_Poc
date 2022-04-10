@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anvi Sah\\source\\repos\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj": {}
+    "C:\\Users\\chandradev_ps\\Desktop\\InternateBill\\POC_Task\\Localtion_App_POC\\Blazor_Com_Poc_Test\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anvi Sah\\source\\repos\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj": {
+    "C:\\Users\\chandradev_ps\\Desktop\\InternateBill\\POC_Task\\Localtion_App_POC\\Blazor_Com_Poc_Test\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anvi Sah\\source\\repos\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj",
+        "projectUniqueName": "C:\\Users\\chandradev_ps\\Desktop\\InternateBill\\POC_Task\\Localtion_App_POC\\Blazor_Com_Poc_Test\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj",
         "projectName": "Blazor_Comp_Poc",
-        "projectPath": "C:\\Users\\Anvi Sah\\source\\repos\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj",
-        "packagesPath": "C:\\Users\\Anvi Sah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anvi Sah\\source\\repos\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\obj\\",
+        "projectPath": "C:\\Users\\chandradev_ps\\Desktop\\InternateBill\\POC_Task\\Localtion_App_POC\\Blazor_Com_Poc_Test\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\Blazor_Comp_Poc.csproj",
+        "packagesPath": "C:\\Users\\chandradev_ps\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chandradev_ps\\Desktop\\InternateBill\\POC_Task\\Localtion_App_POC\\Blazor_Com_Poc_Test\\Blazor_Com_Poc_Test\\Blazor_Comp_Poc\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Anvi Sah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chandradev_ps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/csb-nuget": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/v3/nuget": {},
+          "http://dcsartifacts.dell.com/artifactory/nuget-remote/.nuGetV3/feed.json": {},
+          "http://dcsartifacts.dell.com/artifactory/nuget/.nuGetV3/feed.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/v3/nuget": {}
         },
         "frameworks": {
           "net6.0": {
@@ -57,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
